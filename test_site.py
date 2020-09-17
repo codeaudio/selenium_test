@@ -1,5 +1,4 @@
 from selenium import webdriver
-import time
 
 link = "https://codeaudio.github.io/baptist/contact.html?"
 browser = webdriver.Chrome()
